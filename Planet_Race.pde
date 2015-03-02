@@ -3,6 +3,7 @@ import oscP5.*;
 import netP5.*;
 
 //Hello!
+//hello, hello
 NetworkClient mClient;
 ArrayList planetsList;
 StringList people;
